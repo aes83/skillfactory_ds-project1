@@ -1,0 +1,6 @@
+
+data/
+Project-1.v01 copy*.ipynb
+**/__pycache__
+**/debug/
+# .idea/

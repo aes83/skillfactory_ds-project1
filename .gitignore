@@ -1,7 +1,9 @@
 
 data/
 Project-1.v01 copy*.ipynb
+Project-1.v02*
 Project-1.v01 — рабочая (с доп.полезным кодом).ipynb
+Project-1.v01 — с кодом выявления большой ячейки и удаления её вывода*
 **/__pycache__
 **/debug/
 # .idea/
